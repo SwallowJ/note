@@ -32,3 +32,7 @@ git fetch
 git reset --mixed origin/master
 git branch --set-upstream-to=origin/master master
 ```
+
+## 脱离版本控制
+
+git rm --cached path
