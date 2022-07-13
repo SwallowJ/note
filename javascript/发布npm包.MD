@@ -3,11 +3,11 @@
 ## 登录 NPM
 
 ```bash
-npm login
+$npm login
 ```
 
 ## 发布
 
 ```bash
-npm publish
+$npm publish (--access public)
 ```
