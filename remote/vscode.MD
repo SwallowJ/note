@@ -21,3 +21,8 @@ $mv id_rsa.pub ~/.ssh/authorized_keys
 #存在authorized_keys
 $cat id_rsa.pub >> ~/.ssh/authorized_keys
 ```
+
+4. 修改文件权限
+```
+chmod 600 authorized_keys
+```
