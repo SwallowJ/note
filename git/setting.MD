@@ -14,8 +14,8 @@ $git config --global user.name  "xxxx"
 $git config --global user.email  "xxxx"
 ```
 
-
 3. 记住账号密码
+
 ```bash
-$git config --global credential.helper store
+git config --global credential.helper store
 ```
